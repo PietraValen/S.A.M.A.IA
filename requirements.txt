@@ -1,0 +1,9 @@
+tensorflow
+scikit-learn
+rasterio
+geopandas
+Pillow
+numpy
+pandas
+matplotlib
+jupyterlab
