@@ -1,0 +1,15 @@
+# Ambiente Virtual
+venv/
+
+# Dados (geralmente são muito grandes para o Git)
+data/
+
+# Modelos exportados
+exported_models/
+
+# Arquivos do Jupyter Notebook Cache
+.ipynb_checkpoints/
+
+# Arquivos do Python Cache
+__pycache__/
+*.pyc

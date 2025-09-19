@@ -1,9 +1,19 @@
+# --- Machine Learning e Deep Learning ---
 tensorflow
 scikit-learn
+
+# --- Processamento Geoespacial e de Imagens ---
 rasterio
 geopandas
 Pillow
+
+# --- Manipulação de Dados e Gráficos ---
 numpy
 pandas
 matplotlib
+
+# --- Ambiente de Experimentação ---
 jupyterlab
+
+# --- Utilitários ---
+tqdm # Para barras de progresso
